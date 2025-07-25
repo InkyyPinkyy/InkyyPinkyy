@@ -1,5 +1,4 @@
-# 💫 About Me:
-<details><summary> Intro </summary><div align="center">
+
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
 </div>  
   
@@ -33,8 +32,6 @@
 
 <br/>  
 
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/InkyyPinkyy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -45,11 +42,7 @@
 </div>  
   
 
-<br/>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=InkyyPinkyy&&style=flat-square" align="center" />
-</div>  
-  
+
 
 <br/>  
 
@@ -60,15 +53,15 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white) 
-<br>
+<br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=InkyyPinkyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=InkyyPinkyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=InkyyPinkyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<br>
+<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=InkyyPinkyy&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-<br>
+<br/>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
