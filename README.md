@@ -1,6 +1,6 @@
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
-</div>  
+ 
   
 
 ## <div align="center">Hey 👋, I'm Inkyy</div>  
@@ -11,6 +11,7 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white) 
+</div>
 <br/>
 ---
 
