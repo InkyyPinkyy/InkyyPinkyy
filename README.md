@@ -1,17 +1,17 @@
-<div align="center">
+
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
 </div>  
   
 
 ## <div align="center">Hey 👋, I'm Inkyy</div>  
-  
+<div align="center">
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white) 
-
+<br/>
 ---
 
 - 🌱 I’m currently learning about Hyprlands Ecosystem  
@@ -24,7 +24,7 @@
 
 
 ## My Skill Set  
-
+<div align="center"> 
 <table><tr><td valign="top" width="33%">
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -33,7 +33,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 </td></tr></table>  
-
+</div>
 
 <br/>  
 
@@ -49,16 +49,16 @@
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=InkyyPinkyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=InkyyPinkyy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=InkyyPinkyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=InkyyPinkyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
 
-<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=InkyyPinkyy&theme=dark&hide_border=false)<br/><br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=InkyyPinkyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=InkyyPinkyy&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<br/>
+
 </div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
