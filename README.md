@@ -1,4 +1,4 @@
-
+<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
 </div>  
   
@@ -24,7 +24,7 @@
 
 
 ## My Skill Set  
-<div align="center">
+
 <table><tr><td valign="top" width="33%">
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -33,7 +33,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 </td></tr></table>  
-</div>
+
 
 <br/>  
 
@@ -59,7 +59,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=InkyyPinkyy&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <br/>
-
+</div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
